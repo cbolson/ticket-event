@@ -1,8 +1,6 @@
 # Ticket Event
 
-# Description
-
-Ticket Event developed as an icodethis.com daily challenge (link below)
+Ticket Event interface developed as an icodethis.com daily challenge (link below)
 
 # About
 
