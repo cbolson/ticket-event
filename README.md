@@ -9,6 +9,7 @@ Ticket Event developed as an icodethis.com daily challenge (link below)
 - Data retrieved via JSON
 - CSS and JavaScript challenge to recreates visuals
 - Uses Tailwind
+- My 50th challenge
 
 # Links
 
